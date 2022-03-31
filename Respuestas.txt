@@ -1,1 +1,8 @@
-no se ve porque esta en otra rama
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+   desde el branch main no puedo ver el archivo, porque dicho archivo esta en otra rama
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+   hay dos ramas 
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+   todo se movio a la rama principal
